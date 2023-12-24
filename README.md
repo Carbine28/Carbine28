@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Aspiring Fullstack Developer, Game Dev Enthusiast.**
+**Aspiring backend developer, Game Dev Enthusiast.**
 
 🌐 [wilsonandko.app](https://wilsonandko.vercel.app) | 
 🔗 [LinkedIn](https://www.linkedin.com/in/wilson-ko)  
