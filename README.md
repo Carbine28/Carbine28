@@ -1,6 +1,9 @@
-## Hi there 👋
+# Junior Software Engineer | Game Dev
 
-**Aspiring Fullstack developer, Game Dev Enthusiast.**
+Hey, welcome to my github profile!
 
-🌐 [My portfolio website](https://wilson-ko.dev/) | 
-🔗 [LinkedIn](https://www.linkedin.com/in/wilson-ko)  
+### 🌟 Check out my latest project 🌟 | [Website 🌍](https://carbine28.github.io/ghibli-grass-v2/)
+https://github.com/user-attachments/assets/00740160-309e-4b0c-a5f6-fbbe0c4bd456
+
+
+
